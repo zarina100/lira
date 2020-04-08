@@ -1,0 +1,215 @@
+html {
+  box-sizing: border-box;
+}
+  *,*:before, *:after {
+    box-sizing:inherit;
+
+  }
+
+
+body p {
+
+  margin:0px;
+  color:black;
+  padding:35px;
+  font-family: 'Montserrat','Roboto Slab', 'Slabo 27px' sans-serif;
+  font-size: 18px;
+
+
+}
+
+
+
+#Zero {
+  background-color:black;
+  height:30vh;
+  margin:0 auto;
+  padding: 0px 0px 40px 0px;
+
+}
+
+.logo1-img {
+  height:200px;
+  width:200px;
+  margin: auto;
+
+
+
+}
+
+nav {
+  float:right;
+}
+
+nav ul {
+  list-style: none;
+  margin:20px;
+
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 15px;
+  line-height: 1.5;
+  font-size:1.3rem;
+}
+
+
+#One {
+  background-color:#84a9ac;
+  box-sizing: border-box;
+  height:100vh;
+
+}
+
+h1 {
+  padding:120px 10px  0px 10px;
+  font-size:2em;
+  margin:0 auto;
+  text-align:center;
+
+}
+
+h3 {
+  text-align: center;
+  margin-top: 50px;
+
+
+}
+
+
+.textone {
+  width: 100%;
+  text-align:center;
+  line-height:2;
+  padding:40px auto;
+
+
+}
+
+
+#Two {
+  background-color:white;
+  box-sizing: border-box;
+  height:100vh;
+text-align: center;
+padding-top:60px;
+}
+
+.lira {
+  height:350px;
+  width:350px;
+text-align:center;
+display: inline-grid;
+padding:20px;
+font-size: 18px;
+}
+
+
+.Bala {
+  height:350px;
+  width:350px;
+  text-align:center;
+display: inline-grid;
+padding: 20px;
+font-size: 18px;
+
+}
+
+.Kyz  {
+  height:350px;
+  width:350px;
+  text-align:center;
+display: inline-grid;
+padding: 20px;
+font-size: 18px;
+}
+
+
+img {
+  height:160px;
+  width:160px;
+  border-radius:100px;
+text-align: center;
+margin-left: 70px;
+padding:inherit;
+
+
+
+}
+
+.girlprofile-img {
+  height:160px;
+  width:160px;
+  border-radius:100px;
+ margin-left: 70px;
+ text-align: center;
+ padding: inherit;
+
+
+}
+
+.lawyertext {
+  font-size: 16px;
+}
+
+
+#Footer  {
+  background:black;
+  height:30vh;
+  margin:0 auto;
+  padding: 0px 0px 40px 0px;
+
+}
+
+.Contacttext {
+  color:white;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.3rem;
+}
+
+footer ul {
+  list-style: none;
+  padding-top:0px auto;
+  margin:0;
+  text-align: center;
+
+}
+
+footer li {
+  display: inline-block;
+  padding: 0 30px 30px 0;
+  line-height: 1.5;
+  font-size:1rem;
+}
+
+
+.fa-facebook-f::before {
+  font-size:1.5rem;
+}
+
+.fa, .fas {
+  font-size: 1.5rem;
+}
+
+.Copyright {
+  font-size:8px;
+  color:white;
+  margin-top:-100px;
+  font-size:small;
+  text-align:left;
+  padding:90px 0 20px;
+
+}
+
+a {
+  color:#11999E;
+  margin: 10px 20px;
+  font-family: 'Montserrat','Roboto Slab', 'Slabo 27px' sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color:white;
+}
